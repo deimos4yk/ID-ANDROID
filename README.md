@@ -1,5 +1,2 @@
 # ID-ANDROID
-ID del dispositivo para android (Request by Zorro) 
-Este ID de android está creado con fines personales para el juego HISPATALE LTS-REWRITE
-De servir algo puedes tomarlo
-Todo el código usa JAVA excepto xml
+This repository is made for the purpose of complementing the code of the HISPATALE LTS video game, in the same way anything that can be used is here, all the files have a .java extension except for .xml
